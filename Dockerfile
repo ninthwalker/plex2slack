@@ -1,4 +1,4 @@
-FROM node:onbuild
+FROM node:7.7
 MAINTAINER ninthwalker
 
 EXPOSE 9889
